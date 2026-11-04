@@ -1,0 +1,7 @@
+The data in this repository (dataset/, hf/data/, runs/, results.json, benchmark.json and DATASET.md) is licensed under CC-BY-4.0: https://spdx.org/licenses/CC-BY-4.0.html
+
+Copyright (c) Firecrawl's fire-evals team
+
+Each arm's executions under runs/ quote what its tools retrieved, and those pages keep their own terms.
+
+The code (core/, pack/ and verify.py) is MIT; see LICENSE.
